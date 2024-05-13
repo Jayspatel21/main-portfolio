@@ -119,7 +119,7 @@ const downloadBtn = document.getElementById('download-btn');
 // Add event listener for button click
 downloadBtn.addEventListener('click', () => {
   // Replace 'path/to/your/pdf.pdf' with the actual path to your PDF file
-  window.open('JAY PATEL Resume.pdf', '_blank');
+  window.open('JAY PATEL Resume.pdf.pdf', '_blank');
 });
 
 const downloadBtn1 = document.getElementById('download-btn1');
@@ -127,7 +127,7 @@ const downloadBtn1 = document.getElementById('download-btn1');
 // Add event listener for button click
 downloadBtn1.addEventListener('click', () => {
   // Replace 'path/to/your/pdf.pdf' with the actual path to your PDF file
-  window.open('JAY PATEL Resume.pdf', '_blank');
+  window.open('JAY PATEL Resume.pdf.pdf', '_blank');
 });
 
 const downloadBtn2 = document.getElementById('download-btn2');
@@ -135,7 +135,7 @@ const downloadBtn2 = document.getElementById('download-btn2');
 // Add event listener for button click
 downloadBtn2.addEventListener('click', () => {
   // Replace 'path/to/your/pdf.pdf' with the actual path to your PDF file
-  window.open('JAY PATEL Resume.pdf', '_blank');
+  window.open('JAY PATEL Resume.pdf.pdf', '_blank');
 });
 
 window.addEventListener('scroll', scrollActive)
